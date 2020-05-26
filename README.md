@@ -41,4 +41,4 @@ Calling a 2D Array value:
   vWord =  Home.vData[0][0]; // This will return Airplane. 
 ```
 # Notes
-I used "static" so my variable would be accessable throughout my code. My variables were housed in a module called "Home", so you'll note that they are called with Home.variablename.
+I used "static" so my variable would be accesible throughout my code. My variables were housed in a module called "Home", so you'll note that they are called with Home.variablename.
